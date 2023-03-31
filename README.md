@@ -7,5 +7,5 @@ SDR.R contains the implementation of the SDR estimator
 
 IRM.R contains the implementation of the IRM estimator 
 
-Other files contain the different experiments presented in the paper 
+The other files contain the different experiments presented in the paper 
 
